@@ -1,2 +1,2 @@
 # SocialMediaProject
-Twitter/Facebook clone using the MERN Tech Stack
+Twitter/Facebook clone using the MERN Tech Stack.
