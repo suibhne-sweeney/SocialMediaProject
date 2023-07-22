@@ -99,8 +99,6 @@ const Navbar = () => {
                 </FlexBetween>
                 </Box>
             )}
-
-
         </FlexBetween>
     );
 };
