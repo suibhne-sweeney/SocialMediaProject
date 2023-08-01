@@ -44,11 +44,11 @@ export const getUserPosts = async(req, res) => {
     }catch(err){
         res.status(404).json({message: err.message})
     }
-}
+} 
 
 /* UPDATE */
 
-export const likePost = async(req, res) => {
+export const likePost = async (req, res) => {
     try{
         const { id } = req.params;
         const { userId } = req.body;
