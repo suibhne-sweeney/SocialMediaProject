@@ -1,7 +1,6 @@
 # SocialMediaProject
 Twitter/Facebook clone using the MERN Tech Stack.
 
-# Introduction
 I created a full-stack social media website inspired by Facebook, implementing full CRUD (Create, Read, Update, Delete) capabilities using the MERN (MongoDB, Express, React, and NodeJS) stack. It's a proof of concept, but I believe it reflects my abilities and dedication to web development.
 
 ![first30secs](https://github.com/suibhne-sweeney/SocialMediaProject/assets/110748326/bac7e420-e76c-442e-b21c-d91a00db8eef)
