@@ -4,6 +4,8 @@ Twitter/Facebook clone using the MERN Tech Stack.
 # Introduction
 I created a full-stack social media website inspired by Facebook, implementing full CRUD (Create, Read, Update, Delete) capabilities using the MERN (MongoDB, Express, React, and NodeJS) stack. It's a proof of concept, but I believe it reflects my abilities and dedication to web development.
 
+![first30secs](https://github.com/suibhne-sweeney/SocialMediaProject/assets/110748326/bac7e420-e76c-442e-b21c-d91a00db8eef)
+
 # Overview
 The application features a user-friendly registration page with thorough validation and an option to upload a profile image. Once registered, users could log in to access their personalized home page. The home page boasts a clean design, showcasing various widgets with detailed information about the current signed-in user. Users have the ability to create posts, add images, edit, and delete their posts, as well as view a feed containing all user-generated posts.
 
